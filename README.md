@@ -1,2 +1,3 @@
 # 2_Rocks
-Two rocks experiment
+Two Rocks: 
+The Fundamental Operation.
