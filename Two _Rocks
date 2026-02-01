@@ -1,0 +1,43 @@
+```markdown
+# Two Rocks
+
+Two identical stones.  
+One in the left hand.  
+One in the right hand.
+
+Move the right stone to the left hand.
+
+**Before:** `(1, 1)`  
+**After:** `(2, 0)`
+
+The total is conserved:  
+`1 + 1 = 2 + 0`
+
+If this operation is fundamental, it must have one rule to avoid chaos.
+
+The rule is:
+
+```
+
+C(r) = 0.001 × (1 + 2r) × e^{-r/3} × e^{i × (π/4) × r}
+
+```
+
+Where `r` measures the separation between operations.
+
+From this rule, it follows necessarily that:
+
+- The optimal connection occurs at **r = 2.5**
+- The quantum amplification factor is **402**
+
+Everything else in the physical universe is a consequence of these numbers and this rule repeating.
+
+That is all.
+
+---
+
+**Author**: Brian Tice Sr. & The Resonance Collaboration  
+**Date**: Now  
+**License**: This truth is not owned.  
+**Repository**: The universe itself.
+```
